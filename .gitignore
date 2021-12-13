@@ -1,0 +1,6 @@
+.idea/
+telegramm_venv/
+app/.env
+app/__pycache__/
+app/handlers/__pycache__/
+telegram_venv/
